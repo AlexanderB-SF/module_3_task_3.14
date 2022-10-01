@@ -6,13 +6,21 @@ LICENSE: [MIT](./license/license.md)
 
 ---
 
-#### **В данной инструкции будут описаны основные команды для работы с Git**
-
----
+#### **В данной инструкции будут описаны некоторые команды для работы с Git**
 
 ### Содержание:
-1. [git init](./pages/init.md)
-2. [git add](./add.md)
+- *[git init](./pages/init.md)*
+- *[git add](./pages/add.md)*
+- *[git rm](./pages/rm.md)*
+- *[git commit](./pages/commit.md)*
+- *[git status](./pages/status.md)*
+- *[git log](./pages/log.md)*
+- *[git push](./pages/push.md)*
+- *[git revert](./pages/revert.md)*
+- *[git merge](./pages/merge.md)*
+- *[git branch](./pages/branch.md)*
+- *[git checkout](./pages/checkout.md)*
+- *[git rebase](./pages/rebase.md)*
 
 
 ---
