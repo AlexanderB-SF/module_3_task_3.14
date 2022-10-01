@@ -1,13 +1,17 @@
 # Инструкция по работе с GIT
 
-LICENSE: [MIT](./license.md)
+LICENSE: [MIT](./license/license.md)
 
 ![git-logo](./assets/Git-Logo-2Color.svg)
 
 ---
 
+#### **В данной инструкции будут описаны основные команды для работы с Git**
+
+---
+
 ### Содержание:
-1. Что-то
+1. [git init](./pages/init.md)
 2. [git add](./add.md)
 
 
